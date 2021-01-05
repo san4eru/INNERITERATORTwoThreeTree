@@ -1,0 +1,6 @@
+Dan	 1	 1
+Maya	 2	 3
+Yael	 1	 2
+Dan	 1	 1
+Maya	 2	 3
+Empty

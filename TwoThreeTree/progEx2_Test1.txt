@@ -1,0 +1,10 @@
+3
+Yael	1	2
+Maya	2	3
+Dan	1	1
+PrintDictionary
+1
+Yael
+PrintDictionary
+FreeAllElements
+PrintDictionary
